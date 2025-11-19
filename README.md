@@ -29,13 +29,15 @@ Elektronikte bir giriş pini boşta bırakılırsa (butona basılmadığında), 
 * **Internal Pull-Up:** Bu projede harici bir direnç lehimlemek yerine, STM32 mikrodenetleyicisinin içinde bulunan **dahili direnç** yazılımla aktif edilmiştir.
 * **Harici direnç** kullanılmak istenseydi. Aşağıdaki görselde hem PULL-UP hem de PULL-DOWN bağlantı görülmektedir.
 
-*	DONANIMSAL PULL-UP;
+*	**DONANIMSAL PULL-UP;**
+  
 PULL-UP için 10k ohm direnç kullanıldı.
 LED direnci 220 ohm kullanıldı.
  
 <img width="560" height="496" alt="image" src="https://github.com/user-attachments/assets/cb9cdf8d-af96-437e-9dd0-a1cd8c987171" />
 
-*	DONANIMSAL PULL-DOWN;
+* **DONANIMSAL PULL-DOWN;**
+
 PULL-DOWN için 10k ohm direnç kullanıldı.
 LED direnci 220 ohm kullanıldı.
 
@@ -78,6 +80,7 @@ Projenin `.ioc` dosyasında buton pinini yapılandırırken şu adımlar izlenmi
 | **LED 2** | `PA2` | Anot -> Pin, Katot -> Direnç -> GND |
 | **LED 3** | `PA3` | Anot -> Pin, Katot -> Direnç -> GND |
 | **LED 4** | `PA4` | Anot -> Pin, Katot -> Direnç -> GND |
+
 
 <img width="566" height="477" alt="image" src="https://github.com/user-attachments/assets/35b7fcef-e301-4943-abd7-5aa8d290d2aa" />
 
