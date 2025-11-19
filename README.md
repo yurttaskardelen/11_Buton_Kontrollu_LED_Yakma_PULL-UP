@@ -36,6 +36,7 @@ LED direnci 220 ohm kullanıldı.
  
 <img width="560" height="496" alt="image" src="https://github.com/user-attachments/assets/cb9cdf8d-af96-437e-9dd0-a1cd8c987171" />
 
+
 * **DONANIMSAL PULL-DOWN;**
 
 PULL-DOWN için 10k ohm direnç kullanıldı.
@@ -64,8 +65,7 @@ Projenin `.ioc` dosyasında buton pinini yapılandırırken şu adımlar izlenmi
 * **4x** LED (Tercih edilen renklerde)
 * **4x** 220 Ohm Direnç (LED koruması için)
 * **1x** Push-Button (Buton)
-* **1x** Breadboard
-* **Jumper Kablolar** (Erkek-Erkek ve Erkek-Dişi)
+* **1x** Breadboard ve Jumper Kablolar
 
 ---
 
