@@ -82,7 +82,8 @@ Projenin `.ioc` dosyasında buton pinini yapılandırırken şu adımlar izlenmi
 | **LED 4** | `PA4` | Anot -> Pin, Katot -> Direnç -> GND |
 
 
-<img width="566" height="477" alt="image" src="https://github.com/user-attachments/assets/35b7fcef-e301-4943-abd7-5aa8d290d2aa" />
+<img width="707" height="598" alt="image" src="https://github.com/user-attachments/assets/e4e147ad-5cf5-4d15-815d-8ade975f0c78" />
+
 
 ---
 
